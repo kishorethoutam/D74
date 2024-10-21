@@ -6,3 +6,4 @@ cd krishna
 cd ..
 touch krishna
 ls -lrt
+uname
