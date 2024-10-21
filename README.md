@@ -11,3 +11,4 @@ List of topics:
 8) Oracle
 9) C
 10) C++
+11) python
